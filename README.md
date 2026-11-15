@@ -1,3 +1,29 @@
+# AutoGPT
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让所有人都能使用和构建 AI 的 AutoGPT 平台与工具生态。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=hero_banner">
     <img src="docs/content/imgs/readme/experts-team.webp" alt="AutoGPT: Your ambition. An AI team behind it. Meet Otto, Maria, Max, and Frankie." width="100%" />
